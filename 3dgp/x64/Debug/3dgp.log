@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Salker\Desktop\050.TexturedRoom\3dgp\main.cpp(80,20): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  3dgp.vcxproj -> C:\Users\Salker\Desktop\050.TexturedRoom\x64\Debug\TexturedRoom.exe

@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Animation.cpp
+  Bitmap.cpp
+  dllmain.cpp
+  Material.cpp
+  Mesh.cpp
+  Logger.cpp
+  Model.cpp
+  VAO.cpp
+  Shader.cpp
+  SkyBox.cpp
+  Terrain.cpp
+  Tools.cpp
+  Generowanie kodu...
+     Trwa tworzenie biblioteki C:\Users\Salker\Desktop\050.TexturedRoom\x64\Debug\3dgl.lib i obiektu C:\Users\Salker\Desktop\050.TexturedRoom\x64\Debug\3dgl.exp
+  3dgl.vcxproj -> C:\Users\Salker\Desktop\050.TexturedRoom\x64\Debug\3dgl.dll
